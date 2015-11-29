@@ -1,0 +1,26 @@
+{	
+	"name": null,
+	"stats":{"str": 10,"dex": 10,"end": 10,"int":10,"wis":10,"wil":10},
+	"status":{"stamina":100,"health":10,"focus":100},
+	"equipment":{
+		"head":null, 
+		"neck":null, 
+		"armour":null, 
+		"main":null, 
+		"off-hand":null, 
+		"ring":null, 
+		"ring2":null, 
+		"boots":null, 
+		"gloves":null,
+		"cloak":null
+		},
+	"followers":{
+		"torchbearer":null, 
+		"henchman":null,
+		"mount":null,
+		"pet":null
+		},
+	"exp":0,
+	"gold":0,
+	"rep":0
+}
